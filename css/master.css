@@ -1,0 +1,11 @@
+.carousel-inner img {
+  /* max-width: 500px; */
+  width: 100%;
+  max-height: 500px;
+  object-fit: cover;
+}
+
+
+.my-sidebar {
+  margin-top: 20px;
+}
